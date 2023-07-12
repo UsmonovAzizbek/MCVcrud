@@ -111,5 +111,4 @@ public  void deleteUser(int id) throws SQLException {
         }
 }
 
-//azizbek
 }
